@@ -1,5 +1,3 @@
-# Cocreate
-
 ## Résumé
 I carried out this project as part of MyDigitalProject, an exercise taking place throughout the
 B3 year at MyDigitalSchool.
