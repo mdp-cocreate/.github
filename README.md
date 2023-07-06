@@ -22,5 +22,5 @@ I'd had in mind for a while to the other members of the group, and after some di
 decided to create a web application enabling digital players to find their partners on projects
 (a kind of professional social network, with a digital focus).
 
-# The idea
+## The idea
 Cocreate's main objective was to help people with the same or complementary interests and skills (e.g. developer with UX/UI designer) to collaborate in an efficient and fulfilling way. The application was to be a virtual space where users could present their project ideas and search for potential partners. Whether creating a mobile application, developing an innovative website, or even realizing an artistic project, Cocreate offered the possibility of finding the right people to work hand in hand, on the same wavelength.
